@@ -1,6 +1,0 @@
-version: "latest"  # optional since v1.27.0
-services:
-  web:
-    build: .
-    ports:
-      - "5244:5244"
